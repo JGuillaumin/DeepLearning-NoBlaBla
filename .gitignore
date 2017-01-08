@@ -1,0 +1,6 @@
+*.pkl
+*.png
+!CNN.png
+!DNN.png
+!regression_logistique.png
+
