@@ -3,13 +3,13 @@
 Notebooks et slides pour la soirée DeepLearning avec le MeetUp "Toulouse Data Science"
 
 
-
 Les notebooks sont en cours de rédactions. 
 
-Des instructions sont aussi en cours de rédaction. (Pour Linux, Max et Windows)
+Des instructions d'installation sont aussi en cours de rédaction.
+(Pour Linux, Max et Windows)
 
 Mais nous allons essayer de faire la soirée sur des instances Amazon AWS, pour que les participants n'aient pas à se soucier de l'installation. 
-On va dire que je suis en phase de test sur Amazon. 
+On va dire que je suis actuellement en phase de test avec AWS. 
 
 
 ### Répertoires : 
@@ -28,5 +28,5 @@ On va dire que je suis en phase de test sur Amazon.
 L'ensemble de l'atelier se déroulera sur le dataset CIFAR-10.
 Téléchargeable depuis Kaggle : https://www.kaggle.com/c/cifar-10
 Cela permettra aux participants d'envoyer leurs résultats sur Kaggle. 
-Les notebooks et les scripts de préparation des données pourront être aussi utilisés pour d'autres compétitions sur Kaggle. 
+Les notebooks et les scripts de préparation des données pourront être aussi utilisés sur d'autres compétitions sur Kaggle. 
  
