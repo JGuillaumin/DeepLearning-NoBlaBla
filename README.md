@@ -3,30 +3,30 @@
 Notebooks et slides pour la soirée DeepLearning avec le MeetUp "Toulouse Data Science"
 
 
-Les notebooks sont en cours de rédactions. 
-
-Des instructions d'installation sont aussi en cours de rédaction.
-(Pour Linux, Max et Windows)
-
-Mais nous allons essayer de faire la soirée sur des instances Amazon AWS, pour que les participants n'aient pas à se soucier de l'installation. 
-On va dire que je suis actuellement en phase de test avec AWS. 
+Des instructions d'installation pour Linux et Mac se trouvent dans le répertoire `install`. 
+Mais les participants pourront travailler sur des instances Amazon avec GPU. 
+Nous nous occupons de l'environnement de travail pour vous. Et c'est gratuit ! 
+Il faut juste venir avec un ordinateur portable, se connecter au Wifi et avoir un navigateur récent (Chrome ou Firefox de préférence). 
 
 
 ### Répertoires : 
 
 - data - Données brutes, données préparées et les scripts de préparation. 
 - dockerfiles - Fichiers docker pour monter des images avec toutes les dépendances nécessaires. Quelques modifications sont à apporter. (CPU ou GPU)
-- part0 - Prise en main de Keras, découverte des principes de base.
-- part1 - Premier modèle, une régression logistique 
+- part1 - Prise en main de Keras, découverte des principes de base avec une régression logistique
 - part2 - Réseau de neurones classique 
-- part3 - Réseau de neurones convolutif
+- part3 - Réseau de neurones convolutif 
+- part4 - Réseau AlexNet 
 - ressources - Illustrations pour les notebooks. 
 
 
 
 ### Données :
-L'ensemble de l'atelier se déroulera sur le dataset CIFAR-10.
-Téléchargeable depuis Kaggle : https://www.kaggle.com/c/cifar-10
-Cela permettra aux participants d'envoyer leurs résultats sur Kaggle. 
-Les notebooks et les scripts de préparation des données pourront être aussi utilisés sur d'autres compétitions sur Kaggle. 
+L'atelier se déroulera avec 3 datasets : 
+- MNIST : reconnaissance de caractères manuscrits 
+- CIFAR-10 : classfication d'images (voiture, bateaux, avion, chien, ...)
+- Cats vs Dogs : classification d'images, chien ou chat. 
+
+
+
  
