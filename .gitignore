@@ -1,8 +1,12 @@
 *.pkl
-*.png
 *.h5
-!CNN.png
-!DNN.png
-!regression_logistique.png
-data/
+*.npy
+*.csv
+*.zip
+*.tar.gz
+
+data/cats-dogs/test/
+data/cats-dogs/test_resize/
+data/cats-dogs/train/
+data/cats-dogs/train_resize/
 
