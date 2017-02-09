@@ -6,6 +6,8 @@
 *.zip
 *.tar.gz
 
+.ipynb_checkpoints
+
 data/cats-dogs/test/
 data/cats-dogs/test_resize/
 data/cats-dogs/train/
