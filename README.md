@@ -12,7 +12,7 @@ Il faut juste venir avec un ordinateur portable, se connecter au Wifi et avoir u
 ### Répertoires : 
 
 - data - Données brutes, données préparées et les scripts de préparation. 
-- dockerfiles - Fichiers docker pour monter des images avec toutes les dépendances nécessaires. Quelques modifications sont à apporter. (CPU ou GPU)
+- install - Fichiers docker pour monter des images avec toutes les dépendances nécessaires. Quelques modifications sont à apporter. (CPU ou GPU). Contient aussi les instructions d'installation.
 - part1 - Prise en main de Keras, découverte des principes de base avec une régression logistique
 - part2 - Réseau de neurones classique 
 - part3 - Réseau de neurones convolutif 
